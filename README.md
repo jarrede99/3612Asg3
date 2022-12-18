@@ -7,6 +7,7 @@ https://jarred-api.glitch.me/painting/artist/106
 https://jarred-api.glitch.me/painting/artist/43374534856
 https://jarred-api.glitch.me/painting/year/1850/1900
 https://jarred-api.glitch.me/painting/year/2200/2400
+https://jarred-api.glitch.me/painting/year/2200/1850
 https://jarred-api.glitch.me/painting/title/self
 https://jarred-api.glitch.me/painting/title/dfjkghdfkgh
 https://jarred-api.glitch.me/painting/color/NAPA
