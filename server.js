@@ -1,10 +1,10 @@
 const path = require("path");
-const fs = require("fs");
 const express = require("express");
 const app = express();
 
 app.get('/', (req, resp) => {
-	console.log("no path");
+	console.log("no address path");
+	resp.json({"message": "hi, this page is empty"});
 });
 
 const handler = require('./datahandler.js');

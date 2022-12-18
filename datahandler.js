@@ -6,7 +6,7 @@ const handleArtists = app => {
 
 const handleArtistsbyCountry = app => {
 	app.get('/artists/:country', (req, resp) => {
-        const matches = data.getArtists().filter(u => u.Nationality == req.params.country);
+        const matches = data.getArtists().filter(u => u.Nationality.toUpperCase() == req.params.country.toUpperCase());
         if(matches.length > 0)
         	resp.json(matches);
         else
@@ -20,7 +20,7 @@ const handleGalleries = app => {
 
 const handleGalleriesbyCountry = app => {
 	app.get('/galleries/:country', (req, resp) => {
-        const matches = data.getGalleries().filter(u => u.GalleryCountry == req.params.country);
+        const matches = data.getGalleries().filter(u => u.GalleryCountry.toUpperCase() == req.params.country.toUpperCase());
         if(matches.length > 0)
         	resp.json(matches);
         else

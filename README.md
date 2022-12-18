@@ -1,6 +1,20 @@
-# COMP 3612 (Fall 2022)
-### Assignment #3: Node API
-
-**Please view `COMP3612 Assignment 3.pdf` for instructions**
-
-  
+https://jarred-api.glitch.me/paintings
+https://jarred-api.glitch.me/painting/433
+https://jarred-api.glitch.me/painting/43374534856
+https://jarred-api.glitch.me/painting/gallery/7
+https://jarred-api.glitch.me/painting/gallery/43374534856
+https://jarred-api.glitch.me/painting/artist/106
+https://jarred-api.glitch.me/painting/artist/43374534856
+https://jarred-api.glitch.me/painting/year/1850/1900
+https://jarred-api.glitch.me/painting/year/2200/2400
+https://jarred-api.glitch.me/painting/title/self
+https://jarred-api.glitch.me/painting/title/dfjkghdfkgh
+https://jarred-api.glitch.me/painting/color/NAPA
+https://jarred-api.glitch.me/painting/color/coffee%20bean
+https://jarred-api.glitch.me/painting/color/kcvhvxchbkcj
+https://jarred-api.glitch.me/artists
+https://jarred-api.glitch.me/artists/Netherlands
+https://jarred-api.glitch.me/artists/sdfjjsdf
+https://jarred-api.glitch.me/galleries
+https://jarred-api.glitch.me/galleries/france
+https://jarred-api.glitch.me/galleries/kcvhvxchbkcj
